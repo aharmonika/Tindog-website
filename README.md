@@ -1,2 +1,2 @@
-TinDog Starting Files
+TinDog Starting Files.
 This website is made using bootstrap
